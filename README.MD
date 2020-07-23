@@ -1,6 +1,6 @@
 # deno-rest-api
 
-A simple Deno REST API with Deno and JWT Token Authentication
+A simple REST API with Deno and JWT Token Authentication
 
 ## Requirements
 
