@@ -1,4 +1,4 @@
-import { makeJwt, setExpiration, Jose, Payload } from "https://deno.land/x/djwt/create.ts"
+import { makeJwt, setExpiration, Payload } from "https://deno.land/x/djwt/create.ts"
 import { RouterContext } from "https://deno.land/x/oak/router.ts";
 
 import { UserService } from '../services/index.ts';
