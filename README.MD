@@ -29,8 +29,8 @@ A simple Deno REST API with Deno and JWT Token Authentication
 
 ```json
 {
-	"username" : "usertest",
-	"password" : "123456"
+  "username" : "usertest",
+  "password" : "123456"
 }
 ```
 
@@ -50,8 +50,8 @@ A simple Deno REST API with Deno and JWT Token Authentication
 
 ```json
 {
-	"username" : "usertest",
-	"password" : "123456"
+  "username" : "usertest",
+  "password" : "123456"
 }
 ```
 
